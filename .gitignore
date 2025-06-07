@@ -1,0 +1,33 @@
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VSCode config (jika kamu pakai VSCode)
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac/Linux/Windows system files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Compiled files
+*.pyc
+*.pyo
+
+# Environments
+.env
+.env.*
+
+# Pip dependency files cache
+pip-wheel-metadata/
